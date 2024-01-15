@@ -40,7 +40,7 @@ Into The Wild hotel management app is a full-featured React web application that
 <!-- Screenshot -->
 <a align="center" href="https://the-wild-oasis-alamin.vercel.app">
 
-![Screenshot](./public/thumbnail-preview.png)
+![Screenshot](./Frontend/public/thumbnail-preview.png)
 
 </a>
 

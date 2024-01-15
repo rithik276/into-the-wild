@@ -1,8 +1,8 @@
 <div align="center">
 
-  <img src="./public/logo-dark.png" alt="logo" width="90" height="auto">
+  <img src="./Frontend/public/icon.png" alt="logo" width="90" height="auto">
 
-  <h2>The Wild Oasis</h2>
+  <h2>Into The Wild</h2>
 
   <h3>
     <a href="https://the-wild-oasis-alamin.vercel.app">
@@ -13,9 +13,9 @@
   <div align="center">
     <a href="https://the-wild-oasis-alamin.vercel.app">View Demo</a>
     •
-    <a href="https://github.com/CodePapa360/The-Wild-Oasis/issues">Report Bug</a>
+    <a href="https://github.com/rithik276/into-the-wild/issues">Report Bug</a>
     •
-    <a href="https://github.com/CodePapa360/The-Wild-Oasis/pulls">Request Feature</a>
+    <a href="https://github.com/rithik276/into-the-wild/pulls">Request Feature</a>
   </div>
 
   <hr>
@@ -34,7 +34,7 @@
 
 <!-- Brief -->
 <p align="center">
-The Wild Oasis hotel management app is a full-featured React web application that allows hotel employees to manage cabins, bookings, and guests. The app uses Supabase for its backend and implements a variety of advanced React techniques, such as HOCs, the Compound Component Pattern, and React Query.
+Into The Wild hotel management app is a full-featured React web application that allows hotel employees to manage cabins, bookings, and guests. The app uses Supabase for its backend and implements a variety of advanced React techniques, such as HOCs, the Compound Component Pattern, and React Query.
 </p>
 
 <!-- Screenshot -->
@@ -140,14 +140,14 @@ The Wild Oasis hotel management app is a full-featured React web application tha
 
 - **Project Planning and Management:** I gained experience in planning and managing a large-scale project, including feature development, bug fixing, and testing.
 
-By building "The Wild Oasis" project with these technologies and concepts, I've developed a comprehensive set of skills and knowledge that can be applied to future projects and real-world scenarios. This experience has not only expanded my technical expertise but also improved my problem-solving capabilities.
+By building "Into The Wild" project with these technologies and concepts, I've developed a comprehensive set of skills and knowledge that can be applied to future projects and real-world scenarios. This experience has not only expanded my technical expertise but also improved my problem-solving capabilities.
 
 ### Installation
 
 - Clone this repo:
 
 ```sh
-git clone https://github.com/CodePapa360/The-Wild-Oasis.git
+git clone https://github.com/rithik276/into-the-wild.git
 ```
 
 - Install dependencies:
@@ -170,11 +170,9 @@ npm run dev
 
 ### Author
 
-<b>👤 Alamin</b>
+<b>👤 Rithik</b>
 
-- Twitter - [@CodePapa360](https://www.twitter.com/CodePapa360)
 - LinkedIn - [@CodePapa360](https://www.linkedin.com/in/codepapa360)
-- Frontend Mentor - [@CodePapa360](https://www.frontendmentor.io/profile/CodePapa360)
 - Github: [@CodePapa360](https://github.com/codepapa360)
 
 Feel free to contact me with any questions or feedback!

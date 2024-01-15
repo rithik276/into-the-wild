@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="./public/icon.png" alt="logo" width="90" height="auto">
+  <img src=".Frontend/public/icon.png" alt="logo" width="90" height="auto">
 
   <h2>Into The Wild</h2>
 

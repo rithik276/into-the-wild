@@ -27,8 +27,6 @@
 
 <img src="https://img.shields.io/badge/Status-Completed-success?style=flat" alt="Status" />
 
-<a href='https://www.linkedin.com/in/rithik-bansole/' target="_blank"><img alt='LinkedIn' src='https://img.shields.io/badge/@CodePapa360-100000?style=for-the-badge&logo=LinkedIn&logoColor=00a0dc&labelColor=2F2F2F&color=0077b5'/></a>
-
 </div>
 
 <!-- Brief -->

@@ -13,7 +13,7 @@
   <div align="center">
     <a href="https://the-wild-oasis-alamin.vercel.app">View Demo</a>
     •
-    <a href="https://github.com/CodePapa360/The-Wild-Oasis/issues">Report Bug</a>
+    <a href="https://github.com/rithik276/into-the-wild/issues">Report Bug</a>
     •
     <a href="https://github.com/rithik276/into-the-wild/pulls">Request Feature</a>
   </div>

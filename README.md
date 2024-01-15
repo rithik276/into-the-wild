@@ -27,8 +27,7 @@
 
 <img src="https://img.shields.io/badge/Status-Completed-success?style=flat" alt="Status" />
 
-<a href='https://www.twitter.com/CodePapa360' target="_blank"><img alt='Twitter' src='https://img.shields.io/badge/@CodePapa360-100000?style=for-the-badge&logo=Twitter&logoColor=00C9F7&labelColor=3F3F3F&color=0092FA'/></a>
-<a href='https://www.linkedin.com/in/codepapa360' target="_blank"><img alt='LinkedIn' src='https://img.shields.io/badge/@CodePapa360-100000?style=for-the-badge&logo=LinkedIn&logoColor=00a0dc&labelColor=2F2F2F&color=0077b5'/></a>
+<a href='https://www.linkedin.com/in/rithik-bansole/' target="_blank"><img alt='LinkedIn' src='https://img.shields.io/badge/@CodePapa360-100000?style=for-the-badge&logo=LinkedIn&logoColor=00a0dc&labelColor=2F2F2F&color=0077b5'/></a>
 
 </div>
 
@@ -172,8 +171,8 @@ npm run dev
 
 <b>👤 Rithik</b>
 
-- LinkedIn - [@CodePapa360](https://www.linkedin.com/in/codepapa360)
-- Github: [@CodePapa360](https://github.com/codepapa360)
+- LinkedIn - [@Rithik Bansole](https://www.linkedin.com/in/rithik-bansole/)
+- Github: [@Rithik Bansole](https://github.com/rithik276)
 
 Feel free to contact me with any questions or feedback!
 

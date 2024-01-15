@@ -5,13 +5,13 @@
   <h2>Into The Wild</h2>
 
   <h3>
-    <a href="https://the-wild-oasis-alamin.vercel.app">
+    <a href="https://itw-rithik.vercel.app/">
       <strong>Demo Website</strong>
     </a>
   </h3>
 
   <div align="center">
-    <a href="https://the-wild-oasis-alamin.vercel.app">View Demo</a>
+    <a href="https://itw-rithik.vercel.app/">View Demo</a>
     •
     <a href="https://github.com/rithik276/into-the-wild/issues">Report Bug</a>
     •
@@ -35,7 +35,7 @@ Into The Wild hotel management app is a full-featured React web application that
 </p>
 
 <!-- Screenshot -->
-<a align="center" href="https://the-wild-oasis-alamin.vercel.app">
+<a align="center" href="https://itw-rithik.vercel.app/">
 
 ![Screenshot](./Frontend/public/thumbnail-preview.png)
 
